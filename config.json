@@ -1,0 +1,10 @@
+{
+  "es": {
+    "host": "localhost",
+    "port": 9200
+  },
+  "rabbit": {
+    "host": "localhost",
+    "inQueue": "persist_queue"
+  }
+}
