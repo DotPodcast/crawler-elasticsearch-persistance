@@ -1,0 +1,6 @@
+version: '2'
+services:
+  persist-es:
+    build: .
+    environment:
+      - NODE_ENV=production
